@@ -1,0 +1,4 @@
+npm create vite@latest my-app -- --template react
+cd my-app
+npm install -D vite@^7 @vitejs/plugin-react@^5
+npm install -D tailwindcss @tailwindcss/vite
